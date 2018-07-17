@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "app_name": "Image-prdiction-1-0-4",
+  "autogen_policy": false,
+  "environment_variables": {
+    "ENDPOINT_NAME": "image-endpoint-2018-07-17-06-18-41"
+  },
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
